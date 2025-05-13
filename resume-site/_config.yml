@@ -22,8 +22,8 @@ title: Ivon Teresa Sánchez Cárdenas
 email: ivon.sanchez.cardenas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  My personal resume and portfolio.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: "https://ivonsc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/resume-site" # the subpath of your site, e.g. /blog
+url: "https://ivonsc.github.io/portfolio" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ivonsc
 
 # Build settings
